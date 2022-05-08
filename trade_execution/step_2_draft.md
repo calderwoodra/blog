@@ -1,4 +1,4 @@
-# DRAFT TITLE: Automating complex portfolio management
+# DRAFT TITLE: Generalized automated fund rebalancing 
 
 How to write a draft:
 - In the drafting step, get it down on paper – not elegantly, not perfectly, 
@@ -40,16 +40,31 @@ There are essentially 3 types of actions that can happen:
 - Client initiated $ withdrawals (partial or full)
 - Automated rebalances - net $0 investment change
 
+Things we need to consider:
+- Funds are usually defined by a basket of assets, each making up a proportion of a whole, normally called the
+`fund composition`.
+- Not all assets are fractional, so we'll never be able to get the asset proportions perfect, 
+but we can get pretty close, with a bias to under-invest rather than over-invest.
+- With some assets being under-invested, we have to reserve some money to be used later. This can be done
+by purchasing bonds or other very stable assets.
+
 Client deposits are fairly straight-forward to understand:
 - Check the current target composition of the fund
 - For each asset in the fund composition, divvy their deposit up according to its proportion of the whole fund
 - place buy orders for each asset
+- Supplement any unused funds with bonds
 
 Sell orders are also easy to understand:
 - Calculate the users current fund composition based on the assets they're holding
 - Check the target composition of the fund
 - Calculate the difference between the current and target composition with an assumed % reduction
 - place sell orders for each asset
+- Supplement any unused funds with a bonds
+
+One gotcha to consider with sell orders is that if they're placed outside market hours, the $ amount
+divested from the fund might be 100% of the fund at the time the order was placed, but a different percentage
+when the order is executed. This means that you essentially have to get confirmation at the time the order is
+placed about whether the client is trying to sell their full position or just a portion. 
 
 Rebalances are a little more complex:
 - Calculate the users current fund composition based on the assets they're holding
@@ -58,38 +73,20 @@ Rebalances are a little more complex:
 here, so positions can increase, decrease or stay the same.
 - Place sell orders to all assets decreasing in value
 - Wait for those positions to fill and compute the sum cash of the sales
-- Compute the value of the users fund investment based on  
-- 
+- Compute the value of the user's investment, prior to any sales
+- Place buy orders for each asset which is increasing its position
+- Supplement any unused funds with a bonds
 
+## TODO: Details
+- purpose: for the nitty gritty folks
+- content:
+  - how to execute them
+  - how to handle the edge cases within each
 
-### How can I organize it?
-- Define the problem
-  - What is the problem
-    - we offer funds, users can invest $ amounts into those funds
-    - They can deposit money into a fund, withdraw from a fund, and the fund will self-manage/rebalance itself
-    - The scope of this article is about how to execute the buy/sell orders, not about consuming or using the signals  
-  - Why it's important
-    - It's important because a fund that doesn't rebalance properly/in a timely manner, will lose money 
-- Explain the solution
-  - High level
-    - purpose: give a gist, let folks dig deeper if they're interested
-    - content:
-      - types of trades
-      - call out the edge cases 
-  - Details
-    - purpose: for the nitty gritty folks
-    - content:
-      - how to execute them
-      - how to handle the edge cases within each
-- Closing remarks
-  - summary
-  - anything not covered
-    - stock splits
-    - delisted stocks
+## TODO: Closing remarks
+- summary
+- anything not covered
+  - stock splits
+  - delisted stocks
 
-### What are the format and style requirements
-long form, SubStack or Github page
-
-## Drafting
-getting it on paper once
 
