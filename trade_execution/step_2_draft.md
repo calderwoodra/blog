@@ -3,7 +3,7 @@
 How to write a draft:
 - In the drafting step, get it down on paper – not elegantly, not perfectly, 
   just get it down on paper so you no longer have to hold it all in your brain!
-- Don't worry about grammer, spelling, etc
+- Don't worry about grammar, spelling, etc
 - get to the point. get to the point. get to the point.
 - state main point before giving the reasoning that leads to it
 - put the main point of each paragraph in the first sentence
