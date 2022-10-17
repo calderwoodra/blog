@@ -5,7 +5,7 @@ un-intelligent people, and we've formed a few opinions. I'd love to open up the 
 about intelligence. So everytime I discuss "intelligence" below, I really just mean my subjective perspective, not a
 definitive objective or measurable one.
 
-In my opinion, intelligent people have the following qualities:
+## Qualities of intelligent people
 
 **They're disciplined.** They recognize that mastery of anything requires dedicated and consistent effort, and 
 consciously set aside time on a regular basis to make their goals possible.
@@ -18,14 +18,12 @@ enjoy sharing their goals and milestones with friends and others, intrinsic moti
 reach impressive milestones in due time. But those who are able to form new thoughts and (re)discover new ideas on their
 own tend to progress, learn and master faster.
 
-Possible manifestations:
+## Possible manifestations
 - Can push conversations forward in interesting ways, discuss abstract topics
-- Can create/discover "new" ideas
 - Can do pretty much anything to an above-average level
-- Does impressive things
+- Does impressive things, especially as perceived by others with some mastery in the same domain
 
-## Anti-manifestations
-
+## Possible anti-manifestations
 - Up to date on all the latest news but really just the headlines
     - discipline and motivation isn't needed - it's many people's jobs to make it as easy for you to stay up to date
     - if you can't ever create and infer new information on the topic (i.e. just rattle off the headlines), you're not
