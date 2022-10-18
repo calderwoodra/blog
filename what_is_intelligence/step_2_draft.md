@@ -46,3 +46,27 @@ Manifestations:
       slow and challenging yourself take discipline and motivation. Of course, if you can't form "new" thoughts on your
       own, it's hard to imagine being able to challenge your existing ones as well.
 
+
+
+## appendix/not used
+<div style="visibility: hidden">
+<details>
+<summary>Someone who does impressive things</summary>
+<p style="margin-left: 1rem; margin-top: .25rem">
+Especially as perceived by others with proficiency in the same domain.
+<br />
+</details>
+
+<details>
+<summary>Can push conversations forward in interesting ways, discuss abstract topics</summary>
+<p style="margin-left: 1rem; margin-top: .25rem">
+To me, this is the most interesting manifestation of an independent thinker. 
+<br />
+</details>
+
+<details>
+<summary>Can do pretty much anything to an above-average level</summary>
+<p style="margin-left: 1rem; margin-top: .25rem">
+<br />
+</details>
+</div>
