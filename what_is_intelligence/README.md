@@ -1,29 +1,57 @@
 # What are the qualities of an intelligent person?
 
-I've had a few interesting conversations with close friends recently about what separates intelligent people from
-un-intelligent people, and we've formed a few opinions. I'd love to open up the conversation and hear how others think
-about intelligence. So everytime I discuss "intelligence" below, I really just mean my subjective perspective, not a
-definitive objective or measurable one.
+I've had a few interesting conversations with some friends recently about what separates intelligent people from
+average or un-intelligent people. I'd love to open up the conversation and hear how others think about intelligence.
+This is intentionally a subjective take on "intelligence" and not definitive, objective or measurable.
 
-## Qualities of intelligent people
+### Qualities of intelligent people
 
-**They're disciplined.** They recognize that mastery of anything requires dedicated and consistent effort, and 
-consciously set aside time on a regular basis to make their goals possible.
+<details open>
+<summary>They're disciplined.</summary>
+They recognize that mastery of anything requires dedicated and consistent effort, and consciously set aside time on a
+regular basis to make growth and their goals possible.
+<br />
+<br />
+</details>
 
-**They're intrinsically motivated.** For example, to the casual bystander it's usually not possible to tell the
-difference between someone in the 5th or 1st percentile of a certain domain. So even though an intelligent person might
-enjoy sharing their goals and milestones with friends and others, intrinsic motivation is necessary to be distinguished.
+<details open>
+<summary>They're intrinsically motivated.</summary>
+For example, to the casual bystander it's usually not possible to tell the difference between someone in the 5th or 1st 
+percentile of a certain domain - meaning that external recognition has diminishing returns. So even though an 
+intelligent person might enjoy sharing their goals and milestones with friends and others, intrinsic motivation is 
+necessary to push yourself through trough(s) of despair. 
+<br />
+<br />
+<img
+    height="500"
+    src="img_trough_of_despair.png"
+    alt="Graph depicting wavy line where the dips are denoted as 'troughs of despair'" />
+<br />
+<br />
+</details>
 
-**They're capable of independent thought.** With enough hand-holding, motivation and discipline, even the average can
-reach impressive milestones in due time. But those who are able to form new thoughts and (re)discover new ideas on their
-own tend to progress, learn and master faster.
+<details open>
+<summary>They're capable of independent thought</summary>
+With enough hand-holding, motivation and discipline, even the average can reach impressive milestones in due time. But
+those who are able to form new thoughts/(re)discover new ideas on their own tend to progress, learn and master faster.
+<br />
+<br />
+<img
+    height="400"
+    src="img_independent_thought.png"
+    alt="Graph depicting wavy line where the dips are denoted as 'troughs of despair'" />
+<br />
+<br />
+</details>
 
-## Possible manifestations
+### Possible manifestations
+
 - Can push conversations forward in interesting ways, discuss abstract topics
 - Can do pretty much anything to an above-average level
 - Does impressive things, especially as perceived by others with some mastery in the same domain
 
-## Possible anti-manifestations
+### Possible anti-manifestations
+
 - Up to date on all the latest news but really just the headlines
     - discipline and motivation isn't needed - it's many people's jobs to make it as easy for you to stay up to date
     - if you can't ever create and infer new information on the topic (i.e. just rattle off the headlines), you're not
