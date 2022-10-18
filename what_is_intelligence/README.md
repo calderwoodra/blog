@@ -24,6 +24,7 @@ necessary to push yourself through trough(s) of despair.
 <br />
 <br />
 <img
+    style="object-fit: contain"
     height="500"
     src="img_trough_of_despair.png"
     alt="Graph depicting wavy line where the dips are denoted as 'troughs of despair'" />
@@ -39,6 +40,7 @@ those who are able to form new thoughts/(re)discover new ideas on their own tend
 <br />
 <br />
 <img
+    style="object-fit: contain"
     height="400"
     src="img_independent_thought.png"
     alt="Graph depicting wavy line where the dips are denoted as 'troughs of despair'" />
