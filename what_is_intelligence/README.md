@@ -58,7 +58,7 @@ those who are able to form new thoughts/(re)discover new ideas on their own tend
 <details>
 <summary>Someone who is up-to-date on all the latest news but really just the headlines</summary>
 <p style="margin-left: 1rem; margin-top: .25rem">
-Just considering many people are collectivized to make it as easy for you to stay up to date on the new, it seems like a
+Just considering many people are incentivized to make it as easy for you to stay up to date on the news, it seems like a
 given that discipline and motivation aren't needed. Additionally, if you can't ever create and/or infer new information
 on the topic (i.e. just rattle off the headlines), you're not really adding anything to the conversation, you're not 
 having independent thoughts.
@@ -69,8 +69,8 @@ having independent thoughts.
 <summary>People who reach impressive milestones in an average amount of time</summary>
 <p style="margin-left: 1rem; margin-top: .25rem">
 My thinking here is that with enough discipline and motivation, anyone can achieve impressive things (like playing
-the violin really well or solving a Rubik's Cube in under 10 seconds), but in order to reach these milestones in
-impressive amounts of time you'll need independent thought
+the violin really well or solving a Rubik's Cube in under 30 seconds), but in order to reach these milestones in
+impressive amounts of time you'll need independent thought to advance faster than average.
 <br />
 </details>
 
@@ -78,7 +78,7 @@ impressive amounts of time you'll need independent thought
 <summary>Someone who is quick to form opinions without being open to changing them</summary>
 <p style="margin-left: 1rem; margin-top: .25rem">
 It seems like the natural tendency for most people is to quickly form an opinion, so it follows that taking things
-slow and challenging yourself take discipline and motivation. Of course, if you can't form "new" thoughts on your
-own, it's hard to imagine being able to challenge your existing ones as well.
+slow and challenging yourself takes discipline and motivation. Of course, if you can't form "new" thoughts on your
+own, it's hard to imagine being able to challenge your existing thoughts as well.
 <br />
 </details>
